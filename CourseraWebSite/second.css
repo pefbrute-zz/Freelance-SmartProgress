@@ -1,0 +1,14 @@
+.nav{
+	color:blue;
+	background-color:yellow;
+	font-family: Calibri, sans-serif;
+}
+
+.main{
+	color:white;
+	background-color:black;	
+}
+
+.nav,.main{
+	font-size: 1.5em;
+}
