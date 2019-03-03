@@ -1,8 +1,16 @@
+body{
+  background-color: black;
+  color: white;
+}
 h1,h3{
   text-align: center;
 }
+h3{
+  border: 0.1rem solid white;
+}
 h1{
   color: blue;
+  border: 0.1rem dashed blue;  
 }
 nav{
   width: 54%;
@@ -10,6 +18,7 @@ nav{
 }
 .italic{
   font-style:italic;
+  text-decoration: underline;
 }
 .strong{
   font-weight: bold;
