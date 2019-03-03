@@ -1,0 +1,16 @@
+h1,h3{
+  text-align: center;
+}
+h1{
+  color: blue;
+}
+nav{
+  width: 30%;
+  border: 0.1rem solid yellow;
+}
+.italic{
+  font-style:italic;
+}
+.strong{
+  font-weight: bold;
+}
