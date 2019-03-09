@@ -18,29 +18,41 @@ body{
 .header strong{
   text-transform: uppercase;
 }
-form{
-  width: 350px;
-  height: 308px;
+.main{
+  text-align: center;
+  margin-top: 80px;
+}
+.video, .form {
+  display: inline-block;
+  vertical-align: top;
+}
+.form{
+  margin-left: 30px;
+  text-align: center;
+  padding: 20px;
   border: 5px solid #2727d9;
 }
-form h2{
+.form-header{
   text-align: center;
-  margin:40px;
+  font-size: 20px;
+  font-weight: 900;
+  margin-bottom: 20px;
 }
-form input{
+.form input{
+  font-size: 18px;
   display: block;
-  height: 49px;
-  width: 298px;
-  padding-left: 18px;
-}
-form button{
-  width: 298px;
-  height: 64px;
-  color: #ffffff;
-  background-color: #2727d9;
-  margin-bottom: 44px;
-}
-form input,button{
   margin-top: 11px;
-  margin-left: 23px;
+  width: 300px;
+  padding: 17px;
+  border: 1px solid #333;
+}
+.form button{
+  margin-top: 11px;
+  font-style: 18px;
+  font-weight: 900;
+  color: #fff;
+  background-color: #2727d9;
+  border: none;
+  width: 300px;
+  height: 60px;
 }
