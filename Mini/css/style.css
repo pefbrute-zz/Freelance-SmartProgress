@@ -6,15 +6,15 @@ h1,h3{
   text-align: center;
 }
 h3{
-  border: 0.1rem solid white;
+  border: 0.1rem dashed white;
 }
 h1{
   color: blue;
   border: 0.1rem dashed blue;  
 }
 nav{
-  width: 54%;
-  border: 0.1rem solid yellow;
+  width: 50%;
+  border: 0.1rem dashed yellow;
 }
 .italic{
   font-style:italic;

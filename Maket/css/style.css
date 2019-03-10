@@ -16,12 +16,12 @@ form{
 	*/
 
   float: right;
-  border: 3px solid #3c3cdd;
+  border: 3px solid #7FFFD4;
   width: 350px;
   height: 300px;
 }
 form input{
-	border: 0.1px solid #333333;
+	border: 0.1px solid #7FFFD4;
 	display: block;
 	height: 50px;
 	width: 300px;
@@ -33,7 +33,7 @@ form input{
   font-size: 18px;
 }
 form button{
-	background-color: #3c3cdd;
+	background-color: #7FFFD4;
 	height: 80px;
 	width: 315px;
 	text-align: center;
@@ -61,7 +61,7 @@ form h3{
   margin-top: 150px;
 }
 footer button{
-  background-color: #3c3cdd;
+  background-color: #7FFFD4;
   height: 80px;
   width: 300px;
   text-align: center;
